@@ -1,3 +1,5 @@
 Master branch text.
 
 second-branch text.
+
+second-A-branch text.
