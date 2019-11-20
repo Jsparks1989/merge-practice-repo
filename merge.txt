@@ -1,1 +1,3 @@
 Master branch text.
+
+third-branch text.
