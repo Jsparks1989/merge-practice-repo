@@ -1,1 +1,4 @@
 Master branch text.
+
+## Commands Used
+- git merge: Merge changes from different branches
